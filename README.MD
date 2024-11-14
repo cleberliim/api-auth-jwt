@@ -30,7 +30,7 @@ Este é um projeto de API simples para autenticação de usuários utilizando **
 1. **Clone o repositório**:
 
    
-   git clone https://github.com/seu-usuario/api-auth-jwt.git
+   git clone https://github.com/cleberliim/api-auth-jwt
    cd api-auth-jwt
 
 
